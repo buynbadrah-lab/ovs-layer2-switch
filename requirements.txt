@@ -1,0 +1,4 @@
+# Python dependencies for the Open vSwitch Layer 2 project
+
+# Ryu controller
+ryu
